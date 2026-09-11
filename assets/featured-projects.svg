@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061426"/>
+      <stop offset="50%" stop-color="#071a2f"/>
+      <stop offset="100%" stop-color="#11103a"/>
+    </linearGradient>
+
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#c026d3"/>
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+
+    <filter id="glowPurple">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+
+    <style>
+      .title { font: 700 29px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+      .subtitle { font: 400 13px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+      .projectTitle { font: 700 19px Arial, Helvetica, sans-serif; }
+      .body { font: 400 13px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
+      .label { font: 600 11px Arial, Helvetica, sans-serif; fill: #e2e8f0; }
+      .button { font: 700 12px Arial, Helvetica, sans-serif; fill: #f8fafc; letter-spacing: .4px; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="8" y="8" width="1084" height="374" rx="24"
+        fill="url(#bg)" stroke="#263b59" stroke-width="1.5"/>
+
+  <!-- Decorative glows -->
+  <circle cx="1050" cy="25" r="85" fill="#7c3aed" opacity=".12" filter="url(#glowPurple)"/>
+  <circle cx="30" cy="360" r="90" fill="#06b6d4" opacity=".08" filter="url(#glowPurple)"/>
+
+  <!-- Header -->
+  <text x="35" y="52" class="title">🚀 Featured Projects</text>
+  <text x="1065" y="50" text-anchor="end" class="subtitle">Some of the things I've built</text>
+  <line x1="35" y1="70" x2="1065" y2="70" stroke="#334155"/>
+
+  <!-- ================= HRMS ================= -->
+  <rect x="30" y="88" width="335" height="250" rx="18"
+        fill="#071a2b" stroke="#0891b2" stroke-width="1.5" filter="url(#shadow)"/>
+
+  <rect x="30" y="88" width="335" height="5" rx="2.5" fill="url(#cyan)"/>
+
+  <!-- icon -->
+  <rect x="50" y="110" width="48" height="48" rx="12" fill="#082f49" stroke="#0ea5e9"/>
+  <rect x="62" y="120" width="24" height="28" rx="3" fill="#38bdf8"/>
+  <rect x="66" y="125" width="5" height="5" fill="#082f49"/>
+  <rect x="75" y="125" width="5" height="5" fill="#082f49"/>
+  <rect x="66" y="134" width="5" height="5" fill="#082f49"/>
+  <rect x="75" y="134" width="5" height="5" fill="#082f49"/>
+  <rect x="66" y="143" width="5" height="5" fill="#082f49"/>
+  <rect x="75" y="143" width="5" height="5" fill="#082f49"/>
+
+  <text x="112" y="132" class="projectTitle" fill="#22d3ee">HRMS</text>
+  <text x="112" y="151" class="subtitle">Human Resource Management</text>
+
+  <text x="50" y="185" class="body">Enterprise Human Resource</text>
+  <text x="50" y="204" class="body">Management System.</text>
+
+  <!-- badges -->
+  <rect x="50" y="225" width="65" height="26" rx="13" fill="#111827" stroke="#38bdf8"/>
+  <text x="82" y="242" text-anchor="middle" class="label">Next.js</text>
+
+  <rect x="121" y="225" width="58" height="26" rx="13" fill="#083344" stroke="#06b6d4"/>
+  <text x="150" y="242" text-anchor="middle" class="label">React</text>
+
+  <rect x="185" y="225" width="67" height="26" rx="13" fill="#052e2b" stroke="#10b981"/>
+  <text x="218" y="242" text-anchor="middle" class="label">Node.js</text>
+
+  <rect x="258" y="225" width="85" height="26" rx="13" fill="#062e2b" stroke="#34d399"/>
+  <text x="300" y="242" text-anchor="middle" class="label">MongoDB</text>
+
+  <!-- button -->
+  <rect x="50" y="274" width="155" height="40" rx="20" fill="#082f49" stroke="#0ea5e9"/>
+  <circle cx="72" cy="294" r="9" fill="#f8fafc"/>
+  <text x="72" y="298" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#071a2b">●</text>
+  <text x="89" y="299" class="button">View Project →</text>
+
+  <!-- ================= AI ================= -->
+  <rect x="382" y="88" width="335" height="250" rx="18"
+        fill="#0d102b" stroke="#8b5cf6" stroke-width="1.5" filter="url(#shadow)"/>
+
+  <rect x="382" y="88" width="335" height="5" rx="2.5" fill="url(#purple)"/>
+
+  <rect x="402" y="110" width="48" height="48" rx="12" fill="#2e1065" stroke="#a855f7"/>
+
+  <!-- AI brain icon -->
+  <path d="M426 119 C416 115 409 122 411 131 C404 137 408 148 417 148
+           C420 154 430 154 434 148 C443 149 447 139 442 133
+           C444 123 436 116 426 119Z"
+        fill="#c084fc"/>
+  <path d="M426 120 L426 149 M417 128 L426 133 L436 126 M416 140 L426 137 L436 143"
+        stroke="#4c1d95" stroke-width="2" fill="none"/>
+
+  <text x="464" y="132" class="projectTitle" fill="#c084fc">AI / Agentic Applications</text>
+  <text x="464" y="151" class="subtitle">LLMs • RAG • Agents • Tools</text>
+
+  <text x="402" y="185" class="body">Exploring LLMs, RAG, tools and</text>
+  <text x="402" y="204" class="body">agent orchestration.</text>
+
+  <!-- badges -->
+  <rect x="402" y="225" width="62" height="26" rx="13" fill="#1e1b4b" stroke="#a78bfa"/>
+  <text x="433" y="242" text-anchor="middle" class="label">Python</text>
+
+  <rect x="470" y="225" width="62" height="26" rx="13" fill="#172554" stroke="#60a5fa"/>
+  <text x="501" y="242" text-anchor="middle" class="label">OpenAI</text>
+
+  <rect x="538" y="225" width="53" height="26" rx="13" fill="#2e1065" stroke="#c084fc"/>
+  <text x="564" y="242" text-anchor="middle" class="label">RAG</text>
+
+  <rect x="597" y="225" width="68" height="26" rx="13" fill="#312e81" stroke="#818cf8"/>
+  <text x="631" y="242" text-anchor="middle" class="label">Agents</text>
+
+  <!-- decorative circuit -->
+  <circle cx="681" cy="215" r="4" fill="#22d3ee"/>
+  <circle cx="693" cy="204" r="3" fill="#a855f7"/>
+  <line x1="681" y1="215" x2="693" y2="204" stroke="#6366f1"/>
+
+  <rect x="402" y="274" width="155" height="40" rx="20" fill="#2e1065" stroke="#8b5cf6"/>
+  <circle cx="424" cy="294" r="9" fill="#f8fafc"/>
+  <text x="424" y="298" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#1e1b4b">●</text>
+  <text x="441" y="299" class="button">View Project →</text>
+
+  <!-- ================= MAP ================= -->
+  <rect x="734" y="88" width="335" height="250" rx="18"
+        fill="#06231f" stroke="#10b981" stroke-width="1.5" filter="url(#shadow)"/>
+
+  <rect x="734" y="88" width="335" height="5" rx="2.5" fill="url(#green)"/>
+
+  <rect x="754" y="110" width="48" height="48" rx="12" fill="#064e3b" stroke="#10b981"/>
+
+  <!-- map icon -->
+  <path d="M762 121 L775 116 L789 122 L798 117 L798 146 L786 151 L774 145 L762 150Z"
+        fill="#34d399" opacity=".9"/>
+  <path d="M774 119 L774 144 M787 123 L787 149"
+        stroke="#064e3b" stroke-width="2"/>
+  <circle cx="783" cy="132" r="4" fill="#ecfeff"/>
+
+  <text x="816" y="132" class="projectTitle" fill="#2dd4bf">MapEve</text>
+  <text x="816" y="151" class="subtitle">Maps • APIs • Visualization</text>
+
+  <text x="754" y="185" class="body">Interactive mapping and</text>
+  <text x="754" y="204" class="body">visualization platform.</text>
+
+  <!-- badges -->
+  <rect x="754" y="225" width="78" height="26" rx="13" fill="#365314" stroke="#84cc16"/>
+  <text x="793" y="242" text-anchor="middle" class="label">JavaScript</text>
+
+  <rect x="838" y="225" width="49" height="26" rx="13" fill="#083344" stroke="#22d3ee"/>
+  <text x="862" y="242" text-anchor="middle" class="label">API</text>
+
+  <rect x="893" y="225" width="59" height="26" rx="13" fill="#064e3b" stroke="#34d399"/>
+  <text x="923" y="242" text-anchor="middle" class="label">Maps</text>
+
+  <rect x="958" y="225" width="91" height="26" rx="13" fill="#431407" stroke="#fb923c"/>
+  <text x="1003" y="242" text-anchor="middle" class="label">Frontend</text>
+
+  <!-- button -->
+  <rect x="754" y="274" width="155" height="40" rx="20" fill="#064e3b" stroke="#10b981"/>
+  <circle cx="776" cy="294" r="9" fill="#f8fafc"/>
+  <text x="776" y="298" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#064e3b">●</text>
+  <text x="793" y="299" class="button">View Project →</text>
+
+</svg>
