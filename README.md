@@ -51,11 +51,6 @@ I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, wh
 
 ---
 
-
-## 🛠️ Tech Stack & Currently Learning
-
----
-
 ## 🛠️ Tech Stack & Currently Learning
 
 <div align="center">
