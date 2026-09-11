@@ -275,7 +275,7 @@ width="70%"
 
 <div align="center">
 
-<a href="https://satishthirumani.vercel.app/">
+<a href="http://satishthirumani.duckdns.org/">
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
