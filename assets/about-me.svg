@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061426"/>
+      <stop offset="50%" stop-color="#0b1730"/>
+      <stop offset="100%" stop-color="#1b123b"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="45%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1e35"/>
+      <stop offset="100%" stop-color="#15153b"/>
+    </linearGradient>
+    <linearGradient id="code" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11113d"/>
+      <stop offset="100%" stop-color="#25104f"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#000000" flood-opacity=".35"/>
+    </filter>
+    <style>
+      .title { font: 700 29px Arial, Helvetica, sans-serif; fill: url(#title); }
+      .role { font: 700 21px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+      .body { font: 400 14px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
+      .bullet { font: 400 13px Arial, Helvetica, sans-serif; fill: #e2e8f0; }
+      .code { font: 400 13px "Courier New", monospace; }
+      .small { font: 400 11px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="8" y="8" width="1084" height="374" rx="24"
+        fill="url(#bg)" stroke="#293b59" stroke-width="1.5"/>
+
+  <!-- Decorative glow -->
+  <circle cx="1050" cy="25" r="100" fill="#7c3aed" opacity=".10"/>
+  <circle cx="25" cy="365" r="100" fill="#06b6d4" opacity=".07"/>
+
+  <!-- Header -->
+  <text x="35" y="50" class="title">👨‍💻 About Me</text>
+  <text x="1065" y="49" text-anchor="end" class="small">FULL STACK DEVELOPER • AI EXPLORER</text>
+  <line x1="35" y1="68" x2="1065" y2="68" stroke="#334155"/>
+
+  <!-- Left content card -->
+  <rect x="30" y="88" width="525" height="265" rx="18"
+        fill="url(#card)" stroke="#2563eb" stroke-width="1.2" filter="url(#shadow)"/>
+
+  <rect x="30" y="88" width="525" height="5" rx="2.5" fill="url(#title)"/>
+
+  <text x="55" y="124" class="role">Full Stack Developer</text>
+
+  <text x="55" y="153" class="body">
+    I'm a Full Stack Developer focused on building modern,
+  </text>
+  <text x="55" y="173" class="body">
+    scalable and user-focused web applications.
+  </text>
+
+  <text x="55" y="202" class="body">
+    I work primarily with JavaScript, React, Next.js,
+  </text>
+  <text x="55" y="222" class="body">
+    Node.js and Express.js, while exploring LLMs, RAG,
+  </text>
+  <text x="55" y="242" class="body">
+    AI Agents and Agentic AI systems.
+  </text>
+
+  <!-- Feature bullets -->
+  <circle cx="63" cy="270" r="5" fill="#22d3ee"/>
+  <text x="78" y="275" class="bullet">Building full-stack and enterprise applications</text>
+
+  <circle cx="63" cy="294" r="5" fill="#a78bfa"/>
+  <text x="78" y="299" class="bullet">Working with HRMS and business applications</text>
+
+  <circle cx="63" cy="318" r="5" fill="#34d399"/>
+  <text x="78" y="323" class="bullet">Exploring LLMs, RAG and Agentic AI</text>
+
+  <circle cx="63" cy="342" r="5" fill="#f472b6"/>
+  <text x="78" y="347" class="bullet">Improving DSA, system design and problem solving</text>
+
+  <!-- Right code card -->
+  <rect x="575" y="88" width="495" height="265" rx="18"
+        fill="url(#code)" stroke="#8b5cf6" stroke-width="1.2" filter="url(#shadow)"/>
+
+  <!-- Window controls -->
+  <circle cx="597" cy="111" r="6" fill="#ef4444"/>
+  <circle cx="616" cy="111" r="6" fill="#f59e0b"/>
+  <circle cx="635" cy="111" r="6" fill="#22c55e"/>
+
+  <!-- Code -->
+  <text x="600" y="145" class="code" fill="#c084fc">const</text>
+  <text x="643" y="145" class="code" fill="#f472b6">satish</text>
+  <text x="691" y="145" class="code" fill="#e2e8f0">= {</text>
+
+  <text x="616" y="169" class="code" fill="#60a5fa">name:</text>
+  <text x="675" y="169" class="code" fill="#4ade80">"Satish"</text>
+  <text x="745" y="169" class="code" fill="#e2e8f0">,</text>
+
+  <text x="616" y="193" class="code" fill="#60a5fa">role:</text>
+  <text x="670" y="193" class="code" fill="#4ade80">"Full Stack Developer"</text>
+  <text x="843" y="193" class="code" fill="#e2e8f0">,</text>
+
+  <text x="616" y="217" class="code" fill="#60a5fa">skills:</text>
+  <text x="684" y="217" class="code" fill="#4ade80">["React", "Next.js",</text>
+  <text x="684" y="237" class="code" fill="#4ade80">"Node.js", "AI"]</text>
+  <text x="804" y="237" class="code" fill="#e2e8f0">,</text>
+
+  <text x="616" y="261" class="code" fill="#60a5fa">learning:</text>
+  <text x="700" y="261" class="code" fill="#4ade80">["DSA", "LLMs", "RAG"]</text>
+  <text x="858" y="261" class="code" fill="#e2e8f0">,</text>
+
+  <text x="616" y="285" class="code" fill="#60a5fa">focus:</text>
+  <text x="673" y="285" class="code" fill="#4ade80">"AI + Web + Security"</text>
+  <text x="839" y="285" class="code" fill="#e2e8f0">,</text>
+
+  <text x="616" y="309" class="code" fill="#60a5fa">goal:</text>
+  <text x="663" y="309" class="code" fill="#4ade80">"Build impactful products"</text>
+
+  <text x="600" y="333" class="code" fill="#64748b">// Build • Learn • Improve • Repeat 🚀</text>
+</svg>
