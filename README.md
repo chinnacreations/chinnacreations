@@ -85,7 +85,7 @@ frontend and backend technologies.
 
 ## Connect With Me
 
-🌐 Portfolio: https://satishthirumani.vercel.app
+🌐 Portfolio: [http://satishthirumani.duckdns.org/]
 
 💼 LinkedIn: Add your LinkedIn URL
 
