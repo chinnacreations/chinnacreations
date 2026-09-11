@@ -1,0 +1,178 @@
+<svg width="1500" height="930" viewBox="0 0 1500 930" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1500" y2="930" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050B18"/>
+    <stop offset="0.5" stop-color="#07152B"/>
+    <stop offset="1" stop-color="#10072A"/>
+  </linearGradient>
+
+  <linearGradient id="title" x1="30" y1="70" x2="500" y2="70" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset="0.45" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#EC4899"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="14" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- Main background -->
+<rect x="4" y="4" width="1492" height="922" rx="24" fill="url(#bg)" stroke="#1E3A5F"/>
+
+<!-- Heading -->
+<text x="38" y="72" fill="url(#title)" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Tech Stack</text>
+<path d="M38 92 H560" stroke="#8B5CF6" stroke-width="5"/>
+<text x="1160" y="72" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="18">Technologies I work with</text>
+
+<!-- Tech cards -->
+<!-- Frontend -->
+<rect x="30" y="125" width="350" height="310" rx="18" fill="#0B1030" stroke="#6366F1"/>
+<rect x="48" y="145" width="68" height="68" rx="14" fill="#4F46E5" opacity="0.28"/>
+<text x="68" y="193" fill="#C4B5FD" font-size="40">◈</text>
+<text x="135" y="177" fill="#C4B5FD" font-family="Arial" font-size="28" font-weight="700">Frontend</text>
+<text x="135" y="205" fill="#CBD5E1" font-family="Arial" font-size="15">Modern user interfaces</text>
+
+<text x="62" y="270" fill="#F7DF1E" font-family="Arial" font-size="20" font-weight="700">JS</text>
+<text x="145" y="270" fill="#61DAFB" font-family="Arial" font-size="20" font-weight="700">React</text>
+<text x="240" y="270" fill="white" font-family="Arial" font-size="20" font-weight="700">Next.js</text>
+<text x="95" y="315" fill="#38BDF8" font-family="Arial" font-size="19" font-weight="700">Tailwind CSS</text>
+
+<rect x="50" y="350" width="110" height="42" rx="18" fill="#F7DF1E"/>
+<text x="72" y="377" fill="#111827" font-family="Arial" font-size="15" font-weight="700">JavaScript</text>
+<rect x="172" y="350" width="85" height="42" rx="18" fill="#0E7490"/>
+<text x="195" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">React</text>
+<rect x="269" y="350" width="90" height="42" rx="18" fill="#111827" stroke="#64748B"/>
+<text x="284" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">Next.js</text>
+
+<!-- Backend -->
+<rect x="400" y="125" width="350" height="310" rx="18" fill="#061D18" stroke="#10B981"/>
+<rect x="418" y="145" width="68" height="68" rx="14" fill="#059669" opacity="0.28"/>
+<text x="437" y="193" fill="#6EE7B7" font-size="38">⚙</text>
+<text x="505" y="177" fill="#6EE7B7" font-family="Arial" font-size="28" font-weight="700">Backend</text>
+<text x="505" y="205" fill="#CBD5E1" font-family="Arial" font-size="15">Robust server-side apps</text>
+
+<text x="435" y="270" fill="#22C55E" font-family="Arial" font-size="20" font-weight="700">Node.js</text>
+<text x="545" y="270" fill="#E2E8F0" font-family="Arial" font-size="20" font-weight="700">Express.js</text>
+<text x="675" y="270" fill="#60A5FA" font-family="Arial" font-size="20" font-weight="700">Python</text>
+
+<rect x="420" y="350" width="105" height="42" rx="18" fill="#16A34A"/>
+<text x="442" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">Node.js</text>
+<rect x="537" y="350" width="115" height="42" rx="18" fill="#111827" stroke="#64748B"/>
+<text x="554" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">Express.js</text>
+<rect x="664" y="350" width="78" height="42" rx="18" fill="#2563EB"/>
+<text x="683" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">Python</text>
+
+<!-- Database -->
+<rect x="770" y="125" width="330" height="310" rx="18" fill="#26091E" stroke="#EC4899"/>
+<rect x="788" y="145" width="68" height="68" rx="14" fill="#DB2777" opacity="0.28"/>
+<text x="808" y="192" fill="#F9A8D4" font-size="38">●</text>
+<text x="875" y="177" fill="#F9A8D4" font-family="Arial" font-size="28" font-weight="700">Database</text>
+<text x="875" y="205" fill="#CBD5E1" font-family="Arial" font-size="15">Data storage &amp; management</text>
+
+<text x="815" y="275" fill="#4ADE80" font-family="Arial" font-size="20" font-weight="700">MongoDB</text>
+<text x="965" y="275" fill="#60A5FA" font-family="Arial" font-size="20" font-weight="700">PostgreSQL</text>
+
+<rect x="800" y="350" width="115" height="42" rx="18" fill="#15803D"/>
+<text x="819" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">MongoDB</text>
+<rect x="927" y="350" width="150" height="42" rx="18" fill="#1D4ED8"/>
+<text x="946" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">PostgreSQL</text>
+
+<!-- Tools -->
+<rect x="1120" y="125" width="350" height="310" rx="18" fill="#241305" stroke="#F59E0B"/>
+<rect x="1138" y="145" width="68" height="68" rx="14" fill="#D97706" opacity="0.28"/>
+<text x="1158" y="193" fill="#FCD34D" font-size="38">⚒</text>
+<text x="1225" y="177" fill="#FCD34D" font-family="Arial" font-size="28" font-weight="700">Tools</text>
+<text x="1225" y="205" fill="#CBD5E1" font-family="Arial" font-size="15">Tools for better development</text>
+
+<text x="1150" y="270" fill="#F97316" font-family="Arial" font-size="20" font-weight="700">Git</text>
+<text x="1220" y="270" fill="white" font-family="Arial" font-size="20" font-weight="700">GitHub</text>
+<text x="1310" y="270" fill="#38BDF8" font-family="Arial" font-size="20" font-weight="700">VS Code</text>
+
+<rect x="1140" y="350" width="70" height="42" rx="18" fill="#DC2626"/>
+<text x="1160" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">Git</text>
+<rect x="1220" y="350" width="90" height="42" rx="18" fill="#111827" stroke="#64748B"/>
+<text x="1237" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">GitHub</text>
+<rect x="1320" y="350" width="115" height="42" rx="18" fill="#0369A1"/>
+<text x="1334" y="377" fill="white" font-family="Arial" font-size="15" font-weight="700">VS Code</text>
+
+<!-- Learning heading -->
+<path d="M30 480 H1470" stroke="#334155" stroke-width="2"/>
+<text x="38" y="545" fill="#22D3EE" font-family="Arial" font-size="42" font-weight="700">📚</text>
+<text x="100" y="545" fill="url(#title)" font-family="Arial" font-size="42" font-weight="700">Currently Learning</text>
+<path d="M540 558 H1120" stroke="url(#title)" stroke-width="5"/>
+<text x="1160" y="545" fill="#94A3B8" font-family="Arial" font-size="18">Always curious, always learning</text>
+
+<!-- Learning cards -->
+<g font-family="Arial">
+  <!-- DSA -->
+  <rect x="30" y="590" width="200" height="260" rx="18" fill="#21170A" stroke="#F59E0B"/>
+  <text x="100" y="650" fill="#F59E0B" font-size="38">◆</text>
+  <text x="55" y="705" fill="white" font-size="19" font-weight="700">Data Structures</text>
+  <text x="82" y="731" fill="white" font-size="19" font-weight="700">&amp; Algorithms</text>
+  <text x="58" y="775" fill="#CBD5E1" font-size="14">Improving problem</text>
+  <text x="58" y="798" fill="#CBD5E1" font-size="14">solving and coding.</text>
+  <rect x="85" y="815" width="90" height="28" rx="14" fill="#A16207"/>
+  <text x="113" y="835" fill="white" font-size="13" font-weight="700">DSA</text>
+
+  <!-- LLM -->
+  <rect x="245" y="590" width="200" height="260" rx="18" fill="#160D35" stroke="#8B5CF6"/>
+  <text x="317" y="650" fill="#A78BFA" font-size="38">✦</text>
+  <text x="282" y="705" fill="white" font-size="19" font-weight="700">LLM Architecture</text>
+  <text x="272" y="750" fill="#CBD5E1" font-size="14">Understanding how</text>
+  <text x="272" y="773" fill="#CBD5E1" font-size="14">LLMs work internally.</text>
+  <rect x="303" y="815" width="85" height="28" rx="14" fill="#6D28D9"/>
+  <text x="326" y="835" fill="white" font-size="13" font-weight="700">LLMs</text>
+
+  <!-- RAG -->
+  <rect x="460" y="590" width="200" height="260" rx="18" fill="#071B3A" stroke="#2563EB"/>
+  <text x="530" y="650" fill="#38BDF8" font-size="38">●</text>
+  <text x="535" y="705" fill="white" font-size="21" font-weight="700">RAG</text>
+  <text x="490" y="750" fill="#CBD5E1" font-size="14">Retrieval Augmented</text>
+  <text x="490" y="773" fill="#CBD5E1" font-size="14">Generation systems.</text>
+  <rect x="522" y="815" width="75" height="28" rx="14" fill="#1D4ED8"/>
+  <text x="546" y="835" fill="white" font-size="13" font-weight="700">RAG</text>
+
+  <!-- Agents -->
+  <rect x="675" y="590" width="200" height="260" rx="18" fill="#06241B" stroke="#10B981"/>
+  <text x="745" y="650" fill="#34D399" font-size="38">◉</text>
+  <text x="719" y="705" fill="white" font-size="21" font-weight="700">AI Agents</text>
+  <text x="705" y="750" fill="#CBD5E1" font-size="14">Building and exploring</text>
+  <text x="705" y="773" fill="#CBD5E1" font-size="14">agentic AI systems.</text>
+  <rect x="737" y="815" width="78" height="28" rx="14" fill="#047857"/>
+  <text x="759" y="835" fill="white" font-size="13" font-weight="700">Agents</text>
+
+  <!-- Harnesses -->
+  <rect x="890" y="590" width="200" height="260" rx="18" fill="#2A071F" stroke="#EC4899"/>
+  <text x="960" y="650" fill="#F472B6" font-size="38">⚙</text>
+  <text x="912" y="705" fill="white" font-size="20" font-weight="700">AI Harnesses</text>
+  <text x="920" y="750" fill="#CBD5E1" font-size="14">Exploring AI harness</text>
+  <text x="920" y="773" fill="#CBD5E1" font-size="14">architectures and tools.</text>
+  <rect x="927" y="815" width="126" height="28" rx="14" fill="#BE185D"/>
+  <text x="944" y="835" fill="white" font-size="13" font-weight="700">AI Harnesses</text>
+
+  <!-- System Design -->
+  <rect x="1105" y="590" width="175" height="260" rx="18" fill="#06262B" stroke="#06B6D4"/>
+  <text x="1165" y="650" fill="#22D3EE" font-size="38">◆</text>
+  <text x="1120" y="705" fill="white" font-size="19" font-weight="700">System Design</text>
+  <text x="1122" y="750" fill="#CBD5E1" font-size="14">Designing scalable</text>
+  <text x="1122" y="773" fill="#CBD5E1" font-size="14">and reliable systems.</text>
+  <rect x="1132" y="815" width="120" height="28" rx="14" fill="#0E7490"/>
+  <text x="1148" y="835" fill="white" font-size="13" font-weight="700">System Design</text>
+
+  <!-- Cyber Security -->
+  <rect x="1295" y="590" width="175" height="260" rx="18" fill="#2A0810" stroke="#EF4444"/>
+  <text x="1358" y="650" fill="#FB7185" font-size="38">⬟</text>
+  <text x="1312" y="705" fill="white" font-size="19" font-weight="700">Cyber Security</text>
+  <text x="1310" y="750" fill="#CBD5E1" font-size="14">Learning security</text>
+  <text x="1310" y="773" fill="#CBD5E1" font-size="14">principles and defense.</text>
+  <rect x="1318" y="815" width="130" height="28" rx="14" fill="#B91C1C"/>
+  <text x="1334" y="835" fill="white" font-size="13" font-weight="700">Cyber Security</text>
+</g>
+
+<text x="580" y="900" fill="#94A3B8" font-family="Arial" font-size="17">“Learn. Build. Secure. Improve. Repeat.”</text>
+</svg>
