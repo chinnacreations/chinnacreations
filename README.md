@@ -54,13 +54,13 @@ I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, wh
 
 ## 🛠️ Tech Stack & Currently Learning
 
+---
+
+## 🛠️ Tech Stack & Currently Learning
+
 <div align="center">
 
-<img
-  src="./assets/tech-learning.svg"
-  alt="Satish Tech Stack and Currently Learning"
-  width="100%"
->
+![Satish Tech Stack and Currently Learning](./assets/tech-learning.svg)
 
 </div>
 
@@ -70,16 +70,12 @@ I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, wh
 
 <div align="center">
 
-<img
-  src="./assets/featured-projects.svg"
-  alt="Satish Featured Projects"
-  width="100%"
->
+![Satish Featured Projects](./assets/featured-projects.svg)
 
 </div>
 
-
 ---
+
 
 ## 📚 Currently Learning
 
