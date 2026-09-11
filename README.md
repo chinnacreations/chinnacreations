@@ -18,36 +18,16 @@
 
 </div>
 
+
 ---
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<div align="center">
 
-### Full Stack Developer
+![Satish About Me](./assets/about-me.svg)
 
-I'm a Full Stack Developer focused on building modern, scalable and user-focused web applications.
-
-I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, while also exploring **LLMs, RAG, AI Agents and Agentic AI systems**.
-
-- 🚀 Building full-stack and enterprise applications
-- 🏢 Working with HRMS and business applications
-- 🤖 Exploring LLMs, RAG and Agentic AI
-- 🧠 Improving DSA and problem-solving skills
-- 🛠️ Interested in AI harnesses and system design
-- 🤝 Open to collaboration and interesting projects
-
-</td>
-
-<td width="48%" valign="top" align="center">
-
-<img src="./assets/code-window.svg" alt="Satish code profile" width="100%">
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
