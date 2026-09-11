@@ -145,14 +145,12 @@ Interactive mapping and visualization platform.
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinnacreations&show_icons=true&hide_border=true&bg_color=0b1220&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb&rank_icon=github" alt="GitHub Stats"/>
-
+<img src="./profile/stats.svg" alt="GitHub Stats">
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnacreations&layout=compact&hide_border=true&bg_color=0b1220&title_color=a78bfa&text_color=e5e7eb" alt="Most Used Languages"/>
-
+<img src="./profile/top-langs.svg" alt="Most Used Languages">
 </td>
 </tr>
 </table>
