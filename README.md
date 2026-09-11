@@ -281,7 +281,7 @@ width="70%"
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/satish-tirumani/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
