@@ -51,101 +51,27 @@ I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, wh
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack & Currently Learning
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="25%">
+<img src="./assets/tech-learning.svg" alt="Satish Tech Stack and Currently Learning" width="100%">
 
-### 🎨 Frontend
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/>
-</a>
+---
 
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-</a>
+## 🛠️ Tech Stack & Currently Learning
 
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
-</a>
+<div align="center">
 
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
-</a>
+<img
+  src="./assets/tech-learning.svg"
+  alt="Satish Tech Stack and Currently Learning"
+  width="100%"
+>
 
-<br/><br/>
-
-JavaScript • React • Next.js • Tailwind CSS
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
-</a>
-
-<br/><br/>
-
-Node.js • Express.js • Python
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ Database
-
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"/>
-</a>
-
-<br/><br/>
-
-MongoDB • PostgreSQL
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️ Tools
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
-</a>
-
-<br/><br/>
-
-Git • GitHub • VS Code
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -153,7 +79,6 @@ Git • GitHub • VS Code
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
 ### 🏢 HRMS
@@ -167,7 +92,7 @@ Enterprise Human Resource Management System.
 <br/>
 
 <a href="https://github.com/chinnacreations">
-<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -185,7 +110,7 @@ Exploring LLMs, RAG, tools, agents and agent orchestration.
 <br/>
 
 <a href="https://github.com/chinnacreations">
-<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -203,13 +128,14 @@ Interactive mapping and visualization platform.
 <br/>
 
 <a href="https://github.com/chinnacreations">
-<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-
 </tr>
 </table>
+
+> Replace the three GitHub links above with the actual repository URLs. Don't leave them pointing to your profile if those projects have dedicated repositories.
 
 ---
 
@@ -217,35 +143,23 @@ Interactive mapping and visualization platform.
 
 <table>
 <tr>
-
 <td width="50%" align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=chinnacreations&show_icons=true&hide_border=true&bg_color=0b1220&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb&rank_icon=github"
-alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=chinnacreations&show_icons=true&hide_border=true&bg_color=0b1220&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb&rank_icon=github" alt="GitHub Stats"/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnacreations&layout=compact&hide_border=true&bg_color=0b1220&title_color=a78bfa&text_color=e5e7eb"
-alt="Most Used Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnacreations&layout=compact&hide_border=true&bg_color=0b1220&title_color=a78bfa&text_color=e5e7eb" alt="Most Used Languages"/>
 
 </td>
-
 </tr>
 </table>
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=chinnacreations&theme=dark&hide_border=true&background=0B1220&ring=A855F7&fire=F97316&currStreakLabel=22D3EE"
-alt="GitHub Streak"
-width="70%"
-/>
+<img src="https://streak-stats.demolab.com?user=chinnacreations&theme=dark&hide_border=true&background=0B1220&ring=A855F7&fire=F97316&currStreakLabel=22D3EE" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -256,45 +170,38 @@ width="70%"
 <div align="center">
 
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-
 <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=white" />
-
 <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
-
 <img src="https://img.shields.io/badge/AI_Harnesses-111827?style=for-the-badge&logo=ai&logoColor=white" />
-
 <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 
 </div>
 
 ---
 
+### 📚 Learning Focus
+
+`Data Structures & Algorithms` · `LLM Architecture` · `RAG` · `AI Agents` · `AI Harnesses` · `System Design` · `Cyber Security` · `Ethical Hacking`
+
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="http://satishthirumani.duckdns.org/">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://satishthirumani.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
 &nbsp;
-
-<a href="https://www.linkedin.com/in/satish-tirumani/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/chinnacreations">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -309,9 +216,6 @@ width="70%"
 
 <br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=chinnacreations&style=flat-square&color=7c3aed&label=Profile+Views"
-alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=chinnacreations&style=flat-square&color=7c3aed&label=Profile+Views" alt="Profile views"/>
 
 </div>
