@@ -51,15 +51,6 @@ I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, wh
 
 ---
 
-## 🛠️ Tech Stack & Currently Learning
-
-<div align="center">
-
-<img src="./assets/tech-learning.svg" alt="Satish Tech Stack and Currently Learning" width="100%">
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Currently Learning
 
@@ -77,89 +68,16 @@ I work primarily with **JavaScript, React, Next.js, Node.js and Express.js**, wh
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏢 HRMS
-
-Enterprise Human Resource Management System.
-
-**Stack**
-
-`Next.js` `React` `Node.js` `Express` `MongoDB`
-
-<br/>
-
-<a href="https://github.com/chinnacreations">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 AI / Agentic Applications
-
-Exploring LLMs, RAG, tools, agents and agent orchestration.
-
-**Stack**
-
-`Python` `LLM` `RAG` `Agents` `OpenAI`
-
-<br/>
-
-<a href="https://github.com/chinnacreations">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🗺️ MapEve
-
-Interactive mapping and visualization platform.
-
-**Stack**
-
-`JavaScript` `API` `Maps` `Frontend`
-
-<br/>
-
-<a href="https://github.com/chinnacreations">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-> Replace the three GitHub links above with the actual repository URLs. Don't leave them pointing to your profile if those projects have dedicated repositories.
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="./profile/stats.svg" alt="GitHub Stats">
-</td>
-
-<td width="50%" align="center">
-
-<img src="./profile/top-langs.svg" alt="Most Used Languages">
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chinnacreations&theme=dark&hide_border=true&background=0B1220&ring=A855F7&fire=F97316&currStreakLabel=22D3EE" alt="GitHub Streak" width="70%"/>
+<img
+  src="./assets/featured-projects.svg"
+  alt="Satish Featured Projects"
+  width="100%"
+>
 
 </div>
+
 
 ---
 
