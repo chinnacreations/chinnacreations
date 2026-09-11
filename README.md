@@ -50,20 +50,14 @@
 </div>
 
 ---
-
-
 ## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Harnesses-111827?style=for-the-badge&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+![Satish Currently Learning](./assets/currently-learning.svg)
 
 </div>
+
 
 ---
 
